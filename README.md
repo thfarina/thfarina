@@ -1,6 +1,6 @@
 ### Oi! 👋
 
-Atualmente estou aprendendo Machine Learning 🔭
+Atualmente estou aprendendo HTML e CSS e tenho bastante interesse em estudar Machine Learning 🔭
 ##
 
 <div align="left">
