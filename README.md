@@ -2,7 +2,7 @@
 
 Atualmente estou aprendendo HTML e CSS e tenho bastante interesse em estudar Machine Learning 🔭
 
-<!-- Meu site pessoal: <a href="https://thfarina.github.io/about-me/">clique aqui!</a> -->
+Meu site pessoal: <a href="https://thfarina.github.io/about-me/">clique aqui!</a>
 ##
 
 <div align="left">
