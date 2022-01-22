@@ -1,29 +1,32 @@
-### Oi! 👋
+<h1>Hey! 👋</h1>
 
-Atualmente estou aprendendo HTML e CSS e tenho bastante interesse em estudar Machine Learning 🔭
+<p>🩴 I'm brazilian, from Rio de Janeiro!</p>
+<p>🌱 I’m currently learning JavaScript and React.</p>
+<p>🔭 I’m currently working on AI at a non-profit organization.</p>
 
-Meu site pessoal: <a href="https://thfarina.github.io/about-me/">clique aqui!</a>
-##
+<a href="https://thfarina.github.io/about-me/">✨Access my personal website✨</a>
+ 
+<br>
+<div align="left" style="display: inline">
+  <h3>📫 How to reach me:</h3>
+  <a href="https://twitter.com/thfarina_dev" target="_blank"><img align="center" alt="twitter" height="40" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494477.png?token=exp=1642813211~hmac=31c3b7106494ae2d596152ccb9f125e3"></a>
+  <a href="https://www.linkedin.com/in/thalitafarina/" target="_blank"><img align="center" alt="linkedin" height="40" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494497.png?token=exp=1642813258~hmac=bf0c959dcc6414aeaceff32f3e3f9390"></a>
+  <a href="https://t.me/thfarina" target="_blank"><img align="center" alt="telegram" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"></a>
+</div>
+<br><br>
+
+  ![Snake animation](https://github.com/thfarina/thfarina/blob/output/github-contribution-grid-snake.svg) 
 
 <div align="left">
   <a href="https://github.com/thfarina">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thfarina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thfarina&hide_border=true&locale=pt-br&bg_color=0D1117&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thfarina&hide_border=true&locale=en&bg_color=0D1117&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<div style="display: inline_block" align="left"><br>
-  <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Js" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white">
-  <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div>
-  
- ![Snake animation](https://github.com/thfarina/thfarina/blob/output/github-contribution-grid-snake.svg) 
-
-
   
 <!--
 **thfarina/thfarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://github.com/thfarina" target="_blank"><img align="center" alt="discord" height="40" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494732.png?token=exp=1642813299~hmac=18c5d557702d7182eda6219563f0d876"></a>
 
 Here are some ideas to get you started:
 
