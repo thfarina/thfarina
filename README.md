@@ -2,7 +2,7 @@
 
 <p>🩴 I'm brazilian, from Rio de Janeiro!</p>
 <p>🌱 I’m currently learning JavaScript and React.</p>
-<p>🔭 I’m currently working on AI at a non-profit organization.</p>
+<p>🔭 I’m currently working with AI at a non-profit organization.</p>
 
 <a href="https://thfarina.github.io/about-me/">✨Access my personal website✨</a>
  
