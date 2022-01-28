@@ -9,8 +9,8 @@
 <br>
 <div align="left" style="display: inline">
   <h3>📫 How to reach me:</h3>
-  <a href="https://twitter.com/thfarina_dev" target="_blank"><img align="center" alt="twitter" height="40" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494477.png?token=exp=1642813211~hmac=31c3b7106494ae2d596152ccb9f125e3"></a>
-  <a href="https://www.linkedin.com/in/thalitafarina/" target="_blank"><img align="center" alt="linkedin" height="40" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494497.png?token=exp=1642813258~hmac=bf0c959dcc6414aeaceff32f3e3f9390"></a>
+  <a href="https://twitter.com/thfarina_dev" target="_blank"><img align="center" alt="twitter" height="40" src="https://cdn-icons-png.flaticon.com/512/179/179342.png"></a>
+  <a href="https://www.linkedin.com/in/thalitafarina/" target="_blank"><img align="center" alt="linkedin" height="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
   <a href="https://t.me/thfarina" target="_blank"><img align="center" alt="telegram" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"></a>
 </div>
 <br><br>
